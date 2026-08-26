@@ -4,3 +4,5 @@ Turn any 3D printer or CNC machine into a precision 2D pen plotter / drawing rob
 
 ### 📦 Download
 Download the latest standalone Windows build (`.zip`) from the **[Releases](https://github.com/projectDesignerr/3D-Printer-to-2D-Plotter-Mod/releases)** tab.
+
+new release avaiable , several bugs fixed
